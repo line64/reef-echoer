@@ -16,6 +16,7 @@
   "author": "Line64",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "reef-service": "0.0.0"
   },
   "devDependencies": {
